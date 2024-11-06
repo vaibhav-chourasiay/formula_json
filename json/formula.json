@@ -1,0 +1,156 @@
+[
+    {"category": "H-Pant",
+      "H-Pant": [
+        {
+           "size" : "11", "required_cloth" : 0.15
+        },
+        {
+           "size" : "12", "required_cloth" : 0.35
+        },
+        {
+           "size" : "13", "required_cloth" : 0.40
+        },
+        {
+           "size" : "14", "required_cloth" : 0.50
+        },
+        {
+           "size" : "15", "required_cloth" : 0.55
+        },
+        {
+           "size" : "16", "required_cloth" : 0.60
+        },
+        {
+           "size" : "17", "required_cloth" : 0.60
+        }
+        ,
+        {
+           "size" : "18", "required_cloth" : 0.65
+        }
+        ,
+        {
+           "size" : "19", "required_cloth" : 0.65
+        },
+        {
+           "size" : "20", "required_cloth" : 0.70
+        }
+    ]},
+    { 
+      "category": "F-Pant",
+      "F-Pant": [
+        {
+           "size" : "22", "required_cloth" : 0.70
+        },
+        {
+           "size" : "24", "required_cloth" : 0.75
+        },
+        {
+           "size" : "26", "required_cloth" : 0.80
+        },
+        {
+           "size" : "28", "required_cloth" : 0.85
+        },
+        {
+           "size" : "30", "required_cloth" : 0.90
+        },
+        {
+           "size" : "32", "required_cloth" : 0.95
+        },
+        {
+           "size" : "34", "required_cloth" : 1.0
+        },
+        {
+           "size" : "36", "required_cloth" : 1.05
+        },
+        {
+           "size" : "38", "required_cloth" : 1.1
+        },
+        {
+           "size" : "40", "required_cloth" : 1.15
+        },
+        {
+           "size" : "42", "required_cloth" : 1.2
+        }
+    ]
+},
+    {
+      "category": "H-shirt",
+      "H-shirt": [
+        { "size" : "18", "required_cloth" : 0.6},
+        { "size" : "20", "required_cloth" : 0.8},
+        { "size" : "22", "required_cloth" : 0.9},
+        { "size" : "24", "required_cloth" : 1.0},
+        { "size" : "26", "required_cloth" : 1.1},
+        { "size" : "28", "required_cloth" : 1.2},
+        { "size" : "30", "required_cloth" : 1.3},
+        { "size" : "32", "required_cloth" : 1.4},
+        { "size" : "34", "required_cloth" : 1.5},
+        { "size" : "36", "required_cloth" : 1.6},
+        { "size" : "38", "required_cloth" : 1.8},
+        { "size" : "40", "required_cloth" : 2.0}
+    ]},
+
+    {
+      "category": "Tunik",
+      "Tunik": [
+        { "size" : "22", "required_cloth" : 0.65},
+        { "size" : "24", "required_cloth" : 0.70},
+        { "size" : "26", "required_cloth" : 0.75},
+        { "size" : "28", "required_cloth" : 0.80},
+        { "size" : "30", "required_cloth" : 1.0},
+        { "size" : "32", "required_cloth" : 1.1},
+        { "size" : "34", "required_cloth" : 1.2},
+        { "size" : "36", "required_cloth" : 1.3},
+        { "size" : "38", "required_cloth" : 1.4},
+        { "size" : "40", "required_cloth" : 1.5},
+        { "size" : "42", "required_cloth" : 1.6}
+    ]},
+
+    {
+      "category": "Apron-Half",
+      "Apron-Half": [
+        { "size" : "32", "required_cloth" : 1.15},
+        { "size" : "34", "required_cloth" : 1.15},
+        { "size" : "36", "required_cloth" : 1.15},
+        { "size" : "38", "required_cloth" : 1.15},
+        { "size" : "40", "required_cloth" : 1.2},
+        { "size" : "42", "required_cloth" : 1.2},
+        { "size" : "44", "required_cloth" : 1.2}
+    ]},
+
+    {
+      "category" : "Apron-Full",
+      "Apron-Full": [
+        { "size" : "32", "required_cloth" : 1.3},
+        { "size" : "34", "required_cloth" : 1.3},
+        { "size" : "36", "required_cloth" : 1.3},
+        { "size" : "38", "required_cloth" : 1.3},
+        { "size" : "40", "required_cloth" : 1.4},
+        { "size" : "42", "required_cloth" : 1.4},
+        { "size" : "44", "required_cloth" : 1.4}
+    ]},
+
+    {
+      "category": "Jacket",
+      "Jacket": [
+        { "size" : "32", "required_cloth" : 1.10},
+        { "size" : "34", "required_cloth" : 1.15},
+        { "size" : "36", "required_cloth" : 1.20},
+        { "size" : "38", "required_cloth" : 1.30},
+        { "size" : "40", "required_cloth" : 1.35}
+    ]},
+
+
+    {
+      "category": "Blzr",
+      "Blzr": [
+
+        { "size" : "32", "required_cloth" : 1.5},
+        { "size" : "34", "required_cloth" : 1.55},
+        { "size" : "36", "required_cloth" : 1.60},
+        { "size" : "38", "required_cloth" : 1.60},
+        { "size" : "40", "required_cloth" : 1.60},
+        { "size" : "42", "required_cloth" : 1.70},
+        { "size" : "44", "required_cloth" : 1.70}
+    ]}
+
+   ]
