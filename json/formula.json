@@ -1,6 +1,6 @@
 [
     {"category": "H-Pant",
-      "H-Pant": [
+      "sizes": [
         {
            "size" : "11", "required_cloth" : 0.15
         },
@@ -36,7 +36,7 @@
     ]},
     { 
       "category": "F-Pant",
-      "F-Pant": [
+      "sizes": [
         {
            "size" : "22", "required_cloth" : 0.70
         },
@@ -74,7 +74,7 @@
 },
     {
       "category": "H-shirt",
-      "H-shirt": [
+      "sizes": [
         { "size" : "18", "required_cloth" : 0.6},
         { "size" : "20", "required_cloth" : 0.8},
         { "size" : "22", "required_cloth" : 0.9},
@@ -91,7 +91,7 @@
 
     {
       "category": "Tunik",
-      "Tunik": [
+      "sizes": [
         { "size" : "22", "required_cloth" : 0.65},
         { "size" : "24", "required_cloth" : 0.70},
         { "size" : "26", "required_cloth" : 0.75},
@@ -107,7 +107,7 @@
 
     {
       "category": "Apron-Half",
-      "Apron-Half": [
+      "sizes": [
         { "size" : "32", "required_cloth" : 1.15},
         { "size" : "34", "required_cloth" : 1.15},
         { "size" : "36", "required_cloth" : 1.15},
@@ -119,7 +119,7 @@
 
     {
       "category" : "Apron-Full",
-      "Apron-Full": [
+      "sizes": [
         { "size" : "32", "required_cloth" : 1.3},
         { "size" : "34", "required_cloth" : 1.3},
         { "size" : "36", "required_cloth" : 1.3},
@@ -131,7 +131,7 @@
 
     {
       "category": "Jacket",
-      "Jacket": [
+      "sizes": [
         { "size" : "32", "required_cloth" : 1.10},
         { "size" : "34", "required_cloth" : 1.15},
         { "size" : "36", "required_cloth" : 1.20},
@@ -142,7 +142,7 @@
 
     {
       "category": "Blzr",
-      "Blzr": [
+      "sizes": [
 
         { "size" : "32", "required_cloth" : 1.5},
         { "size" : "34", "required_cloth" : 1.55},
